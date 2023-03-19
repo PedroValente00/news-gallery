@@ -1,2 +1,2 @@
 # news-gallery
-a responsive mobile-first News Gallery mockup
+a very simple responsive mobile-first News Gallery mockup
